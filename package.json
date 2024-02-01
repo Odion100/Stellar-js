@@ -1,0 +1,23 @@
+{
+  "name": "stellar-js",
+  "type": "module",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Odion100/Stellar-js.git"
+  },
+  "author": "odion edwards",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Odion100/Stellar-js/issues"
+  },
+  "homepage": "https://github.com/Odion100/Stellar-js#readme",
+  "dependencies": {
+    "langchain": "^0.1.9"
+  }
+}
